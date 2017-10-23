@@ -1623,3 +1623,7 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Nicole Neary](https://github.com/kiyominox)
+- Place: Edmonton, Alberta, Canada
+- GitHub: [KiyomiNox](https://github.com/kiyominox)
